@@ -17,6 +17,7 @@ Beginner-friendly project structure
 HTML5
 CSS3
 JavaScript
+
 📂 Project Structure
 portfolio/
 │── index.html
