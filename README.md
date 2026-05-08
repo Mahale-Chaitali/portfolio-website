@@ -12,6 +12,7 @@ Contact section
 Smooth scrolling navigation
 Interactive hover effects
 Beginner-friendly project structure
+
 🛠️ Technologies Used
 HTML5
 CSS3
